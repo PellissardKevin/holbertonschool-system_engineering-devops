@@ -1,0 +1,1 @@
+![diagram_wab_stack](/web_infrastructure_design/0-simple_web_stack.png)
